@@ -1,0 +1,106 @@
+[
+    {
+        "category" : "Men clothing",
+        "categoryType" : "men clothing",
+        "type" : [
+            {
+                "type" : "t-shirts",
+                "name" : "T-Shirts"
+            },
+            {
+                "type" : "long-sleeve-shirt",
+                "name" : "Long Sleeve Shirt"
+            },
+            {
+                "type" : "winter-coat",
+                "name" : "Winter Coat"
+            },
+            {
+                "type" : "shoes",
+                "name" : "Shoes"
+            },
+            {
+                "type" : "other",
+                "name" : "Other"
+            }
+        ]
+    },
+    {
+        "category" : "Women clothing",
+        "categoryType" : "women clothing",
+        "type" : [
+            {
+                "type" : "t-shirts",
+                "name" : "T-Shirts"
+            },
+            {
+                "type" : "long-sleeve-shirt",
+                "name" : "Winter Coat"
+            },
+            {
+                "type" : "winter-coat",
+                "name" : "Winter Coat"
+            },
+            {
+                "type" : "other",
+                "name" : "Other"
+            }
+        ]
+    },
+    {
+        "category" : "Electronics",
+        "categoryType" : "electronics",
+        "type" : [
+            {
+                "type" : "SSD",
+                "name" : "SSD"
+            },
+            {
+                "type" : "HDD",
+                "name" : "HDD"
+            },
+            {
+                "type" : "TV",
+                "name" : "Ti Vi"
+            },
+            {
+                "type" : "watch",
+                "name" : "Watch"
+            },
+            {
+                "type" : "camera",
+                "name" : "Camera"
+            },
+            {
+                "type" : "laptop",
+                "name" : "Laptop"
+            },
+            {
+                "type" : "phone",
+                "name" : "Phone"
+            },
+            {
+                "type" : "other",
+                "name" : "Other"
+            }
+        ]
+    },
+    {
+        "category" : "Jewelery",
+        "categoryType" : "jewelery",
+        "type" : [
+            {
+                "type" : "rings",
+                "name" : "Rings"
+            },
+            {
+                "type" : "necklace",
+                "name" : "Necklace"
+            },
+            {
+                "type" : "other",
+                "name" : "Other"
+            }
+        ]
+    }
+]
