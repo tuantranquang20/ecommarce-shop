@@ -6,7 +6,7 @@
     </div>
     <div id="prd">
       <Dropdown v-bind:data="sortDrop" @handleSort="handleSort" />
-      <ItemEco v-bind:items="items" />
+      <ItemEcommerce v-bind:items="items" />
     </div>
   </div>
 </template>
@@ -16,7 +16,7 @@
 
 import Header from "../components/Header";
 import Sidebar from "../components/Sidebar";
-import ItemEco from "../components/ItemEco";
+import ItemEcommerce from "../components/ItemEcommerce";
 import Dropdown from "../components/Dropdown";
 import itemJson from "../../public/dev-datas/item.json";
 import { handleStatusSort } from "../ultils/helper";
@@ -25,7 +25,7 @@ export default {
   components: {
     Header,
     Sidebar,
-    ItemEco,
+    ItemEcommerce,
     Dropdown
   },
   data() {

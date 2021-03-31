@@ -10,7 +10,7 @@
 /* eslint-disable */
 import ItemDetail from './ItemDetail'
 export default {
-  name: 'ItemEco',
+  name: 'ItemEcommercemmerce',
   components:{
     ItemDetail
   },

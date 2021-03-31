@@ -1,6 +1,6 @@
 [
     {
-                "type" : "other",
+        "type" : "other",
         "id": 1,
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "price": 109.95,
@@ -9,7 +9,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
     },
     {
-                "type" : "t-shirts",
+        "type" : "t-shirts",
         "id": 2,
         "title": "Mens Casual Premium Slim Fit T-Shirts ",
         "price": 22.3,
@@ -18,7 +18,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
     },
     {
-                "type" : "winter-coat",
+        "type" : "winter-coat",
         "id": 3,
         "title": "Mens Cotton Jacket",
         "price": 55.99,
@@ -27,7 +27,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/71li-ujtlUL._AC_UX679_.jpg"
     },
     {
-                "type" : "long-sleeve-shirt",
+        "type" : "long-sleeve-shirt",
         "id": 4,
         "title": "Mens Casual Slim Fit",
         "price": 15.99,
@@ -36,7 +36,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/71YXzeOuslL._AC_UY879_.jpg"
     },
     {
-                "type" : "necklace",
+        "type" : "necklace",
         "id": 5,
         "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
         "price": 695,
@@ -45,7 +45,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
     },
     {
-                "type" : "rings",
+        "type" : "rings",
         "id": 6,
         "title": "Solid Gold Petite Micropave ",
         "price": 168,
@@ -54,7 +54,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
     },
     {
-                "type" : "rings",
+        "type" : "rings",
         "id": 7,
         "title": "White Gold Plated Princess",
         "price": 9.99,
@@ -63,7 +63,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
     },
     {
-                "type" : "rings",
+        "type" : "rings",
         "id": 8,
         "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
         "price": 10.99,
@@ -72,7 +72,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
     },
     {
-                "type" : "HDD",
+        "type" : "HDD",
         "id": 9,
         "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
         "price": 64,
@@ -81,7 +81,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/61IBBVJvSDL._AC_SY879_.jpg"
     },
     {
-                "type" : "SSD",
+        "type" : "SSD",
         "id": 10,
         "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
         "price": 98.99,
@@ -90,7 +90,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/61U7T1koQqL._AC_SX679_.jpg"
     },
     {
-                "type" : "SSD",
+        "type" : "SSD",
         "id": 11,
         "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
         "price": 109,
@@ -99,7 +99,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/71kWymZ+c+L._AC_SX679_.jpg"
     },
     {
-                "type" : "HDD",
+        "type" : "HDD",
         "id": 12,
         "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
         "price": 114,
@@ -108,7 +108,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/61mtL65D4cL._AC_SX679_.jpg"
     },
     {
-                "type" : "TV",
+        "type" : "TV",
         "id": 13,
         "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
         "price": 599,
@@ -117,7 +117,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/81QpkIctqPL._AC_SX679_.jpg"
     },
     {
-                "type" : "TV",
+        "type" : "TV",
         "id": 14,
         "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
         "price": 999.99,
@@ -126,7 +126,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/81Zt42ioCgL._AC_SX679_.jpg"
     },
     {
-                "type" : "winter-coat",
+        "type" : "winter-coat",
         "id": 15,
         "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
         "price": 56.99,
@@ -135,7 +135,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
     },
     {
-                "type" : "winter-coat",
+        "type" : "winter-coat",
         "id": 16,
         "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
         "price": 29.95,
@@ -144,7 +144,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/81XH0e8fefL._AC_UY879_.jpg"
     },
     {
-                "type" : "long-sleeve-shirt",
+        "type" : "long-sleeve-shirt",
         "id": 17,
         "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
         "price": 39.99,
@@ -153,7 +153,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
     },
     {
-        "type" : "long-sleeve-shirt",
+"type" : "long-sleeve-shirt",
         "id": 18,
         "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
         "price": 9.85,
@@ -162,7 +162,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/71z3kpMAYsL._AC_UY879_.jpg"
     },
     {
-        "type" : "t-shirts",
+"type" : "t-shirts",
         "id": 19,
         "title": "Opna Women's Short Sleeve Moisture",
         "price": 7.95,
@@ -171,7 +171,7 @@
         "image": "https://fakestoreapi.herokuapp.com/img/51eg55uWmdL._AC_UX679_.jpg"
     },
     {
-        "type" : "t-shirts",
+"type" : "t-shirts",
         "id": 20,
         "title": "DANVOUY Womens T Shirt Casual Cotton Short",
         "price": 12.99,
@@ -185,7 +185,7 @@
         "price": 220.99,
         "description": "Iphone 6s plus. 16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM, 128GB 2GB RAM, 4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps",
         "category": "electronics",
-        "type" : "phone",
+"type" : "phone",
         "image": "https://www.nicepng.com/png/detail/419-4199118_apple-iphone-6s-plus-16gb-gold.png"
     },
     {
@@ -194,7 +194,7 @@
         "price": 320.99,
         "description": "Iphone 7s plus. 64GB 3GB RAM, 32GB 2GB RAM, 64GB 2GB RAM, 128GB 2GB RAM, 4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps",
         "category": "electronics",
-        "type" : "phone",
+"type" : "phone",
         "image": "https://www.pngitem.com/pimgs/m/22-220431_iphone-7-plus-black-32gb-hd-png-download.png"
     },
     {
@@ -203,7 +203,7 @@
         "price": 420.99,
         "description": "Iphone 8s plus. 128GB 4GB RAM, 32GB 2GB RAM, 64GB 2GB RAM, 128GB 2GB RAM, 4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps",
         "category": "electronics",
-        "type" : "phone",
+"type" : "phone",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnGARcok1YjQPbesZixY-KnfPQxx0OqW39UQY9durByNY5obdS8-UN5OmnPnQbQifU1U&usqp=CAU"
     },
     {
@@ -212,7 +212,7 @@
         "price": 520.99,
         "description": "Iphone Xs plus. 256GB 4GB RAM, 32GB 2GB RAM, 64GB 2GB RAM, 128GB 2GB RAM, 4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps",
         "category": "electronics",
-        "type" : "phone",
+"type" : "phone",
         "image": "https://dn.clickbuy.com.vn/uploads/2019/04/xs.png"
     },
     {
@@ -221,7 +221,7 @@
         "price": 620.99,
         "description": "DELL Vostro 3500. SSD 256, 8GB RAM, 11th Generation Intel® Core™ i5-1135G7 Processor (8MB Cache, up to 4.2 GHz) ",
         "category": "electronics",
-        "type" : "laptop",
+"type" : "laptop",
         "image": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/vostro_notebooks/vostro_3500/pdp/128-vostro-bulleye-tgl-notebook-vostro-15-3500-5000x5000.jpg?qlt=95&fit=constrain,1&hei=350&wid=504&fmt=jpg&wid=570&hei=400"
     },
     {
@@ -230,7 +230,7 @@
         "price": 550.99,
         "description": "DELL Vostro 3578. SSD 256, 8GB RAM, 11th Generation Intel® Core™ i5-8025 Processor (8MB Cache, up to 3.6 GHz) ",
         "category": "electronics",
-        "type" : "laptop",
+"type" : "laptop",
         "image": "https://i.dell.com/sites/imagecontent/products/PublishingImages/vostro-15-3578-laptop/1626_Vostro_3000_15_MLK_PDP_gallery504x350.jpg"
     },
     {
@@ -239,7 +239,7 @@
         "price": 850.99,
         "description": "Macbook M1, SSD 512GB, 16GB RAM, 8 core (4× high-performance + 4× high-efficiency), 12 MB cache, the energy-efficient cores have a 128 KB L1 instruction cache, 64 KB L1 data cache, and a shared 4 MB L2 cache ",
         "category": "electronics",
-        "type" : "laptop",
+"type" : "laptop",
         "image": "https://www.macworld.co.uk/cmsdata/reviews/3798280/macbook-pro-m1-vs-macbook-pro-intel-main_thumb800.png"
     },
     {
@@ -248,7 +248,7 @@
         "price": 750.99,
         "description": "Macbook Mini, SSD 512GB, 32GB RAM, 8 core (4× high-performance + 4× high-efficiency), 12 MB cache, the energy-efficient cores have a 128 KB L1 instruction cache, 64 KB L1 data cache, and a shared 4 MB L2 cache ",
         "category": "electronics",
-        "type" : "laptop",
+"type" : "laptop",
         "image": "http://atlas-content-cdn.pixelsquid.com/stock-images/apple-mac-mini-computer-tower-ZR6JPn6-600.jpg"
     },
     {
@@ -257,7 +257,7 @@
         "price": 100.99,
         "description": "Stan Smith they’ve more or less stayed the same. But now, Stan Smith sneakers need to change. Not in how they look, or in how they feel — but in how they’re made. It’s time the classic shoe became more sustainable. Became truly timeless. Without sacrificing the infamous design, we’ve reinvented the Stan Smith sneaker with a recycled PRIMEGREEN upper to do right by it. A new standard in sustainability, crafted in a classic silhouette. Because style and sustainability shouldn’t just go hand in hand, they belong on your feet ",
         "category": "men clothing",
-        "type" : "shoes",
+"type" : "shoes",
         "image": "https://www.seekpng.com/png/detail/391-3911769_loyalty-card-adidas-stan-smith-transparent.png"
     },
     {
@@ -266,7 +266,7 @@
         "price": 115.99,
         "description": "Balenciaga Triple S,Triple threat. Balenciaga shoes have reached new heights with the Triple S sneaker for men at Farfetch.",
         "category": "men clothing",
-        "type" : "shoes",
+"type" : "shoes",
         "image": "https://www.thenextsole.com/storage/images/533882-W09O1-1000.png"
     },
     {
@@ -275,7 +275,7 @@
         "price": 99.99,
         "description": "Adidas Yezzy 700 the 700 silhouette has continuously evolved and now boasts a total of four distinct variations. Shop every version and colorway below",
         "category": "men clothing",
-        "type" : "shoes",
+"type" : "shoes",
         "image": "https://www.kindpng.com/picc/m/244-2441469_yeezy-boost-700-v2-static-hd-png-download.png"
     },
     {
@@ -284,7 +284,7 @@
         "price": 410.99,
         "description": "Canon The EOS M50 is a compact interchangeable lens camera for aspiring photographers looking for an easy way to boost the quality of their photos and videos",
         "category": "electronics",
-        "type" : "camrea",
+"type" : "camrea",
         "image": "https://hk.canon/media/migration/shared/live/products/EN/eos_m50_m15-45_b3.png"
     },
     {
@@ -293,7 +293,7 @@
         "price": 510.99,
         "description": "Canon 750D has a 24.0MP APS-C (22.3 x 14.9 mm ) sized CMOS sensor and features DIGIC 6 processor. You can shoot at maximum resolution of 6000 x 4000 pixels with aspect ratios of 1:1, 4:3, 3:2 and 16:9",
         "category": "electronics",
-        "type" : "camera",
+"type" : "camera",
         "image": "https://www.canon.com.hk/public/common/dslr/750D/750D_17_500.jpg"
     },
     {
@@ -302,7 +302,7 @@
         "price": 710.99,
         "description": "The EOS 6D features a newly developed Canon Full-Frame 20.2 Megapixel CMOS sensor for high resolution, perfectly detailed images delivered with incredible",
         "category": "electronics",
-        "type" : "camera",
+"type" : "camera",
         "image": "http://atlas-content-cdn.pixelsquid.com/stock-images/canon-eos-6d-slr-camera-y1x0e86-600.jpg"
     },
     {
@@ -311,7 +311,7 @@
         "price": 499.99,
         "description": "Apple Watch Series 6 ... your wrist. Measure your blood oxygen level with a revolutionary new sensor and app. Take an ECG anytime, anywhere. See your fitness",
         "category": "electronics",
-        "type" : "watch",
+"type" : "watch",
         "image": "https://24hstore.vn/images/products/2020/09/16/large/apple-watch-series-6-lte-deep-navy.jpg.png"
     },
     {
@@ -320,7 +320,7 @@
         "price": 399.99,
         "description": "Apple Watch Series 5. From $399. 44mm or 40mm case size. Always-On Retina display. GPS + Cellular 1 2 8 7 4 6. GPS. Blood Oxygen app",
         "category": "electronics",
-        "type" : "watch",
+"type" : "watch",
         "image": "https://imagineonline.store/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b61a6e7544c950b50b2da6e532b76d0252bb30b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lOTmpBd2VEWXdNRDRHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--67fd72b7d81372100065499849b48e0de94bd545/MTVD2HN_A_1.png"
     },
     {
@@ -329,7 +329,7 @@
         "price": 49.99,
         "description": "Mi bard 5 Specifications[edit] · Display: 1.1-inch (2.72cm) AMOLED, full color touch screen · Dialog DA14697 (Arm Cortex M33) · Colour depth: 16-bit · Screen brightness",
         "category": "electronics",
-        "type" : "watch",
+"type" : "watch",
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/smart_band_5.png"
     }
 ]
